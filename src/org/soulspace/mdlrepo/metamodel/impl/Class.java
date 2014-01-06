@@ -60,13 +60,6 @@ public class Class extends Classifier implements IClass {
 	}
 
 	/**
-	 * @return Returns the isAbstract.
-	 */
-	public boolean isAbstract() {
-	  return isAbstract;
-	}
-	
-	/**
 	 * @return Returns the visibility.
 	 */
 	public String getVisibility() {
